@@ -15,9 +15,9 @@ const bodyFont = Epilogue({
 });
 
 export const metadata: Metadata = {
-  title: "ZST — The AI That Actually Does Things",
+  title: "ZTaS — The AI That Actually Does Things",
   description:
-    "ZST is your action-first AI that clears inboxes, schedules, and executes real work.",
+    "ZTaS is your action-first AI that clears inboxes, schedules, and executes real work.",
 };
 
 export default function RootLayout({
